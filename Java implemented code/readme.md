@@ -2,6 +2,8 @@ Code implemented in java language
 Group - 8:	
 1. 18075001 - Aasav Badera
 2. 18075017 - Deepesh Tank
+
+
 Our project was to implement Hybrid HS with Jaya in which first half of iterations are of Harmony Search and rest of them of Jaya Search in order to optimise RosenBrock Function used in this code.
 Some of the Assumptions involved are-
 In Rosenbrock Function we considered a = 1 and b = 100
