@@ -2,8 +2,11 @@ Our project was to implement Hybrid HS with Jaya in which first half of iteratio
 Some of the Assumptions involved are-
 
 In Rosenbrock Function we considered a = 1 and b = 100
+
 whereas generalised Rosenbrock function is - f(x, y) = (a - x)^2 + b * (y - x^2)^2
+
 Here we have considered upper bound and lower bound to be -5 and +5.
+
 Total number of iterations are 1000.
 
 
