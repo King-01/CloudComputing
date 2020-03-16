@@ -20,3 +20,4 @@ some of the constants used in Harmony Search have been used as-
 
 For more information regarding choice of above constants and harmony search algorithm please refer to scholaroty article(page 3907 - 3915) - K.S. Lee, Z.W. Geem, A new meta-heuristic algorithm for  continuous engineering optimization: harmony search theory  and practice, Comput. Methods Appl. Mech. Engrg. 194  (2005).
 
+Note - Other 3 screenshots in this repository are the results of above code when run on online compiler of gfg.
