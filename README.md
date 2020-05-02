@@ -6,6 +6,6 @@ In this project we mainly worked on scheduling algorithms for server side of Clo
 
 Language used during this project was Java.
 
-Technologies we came in contact with were CloudflowSim, WorkflowSim, Architecture and functioning of server side of Cloud computing.
+Technologies we came in contact with were CloudSim, Architecture and functioning of server side of Cloud computing.
 
-Here my group main aim was to implement hybrid HS Jaya in WorkflowSim.
+Here my group main aim was to implement hybrid HS Jaya with load balancing in Cloudsim.
